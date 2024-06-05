@@ -38,6 +38,10 @@ const LocationSelector = () => {
 
   return (
     <div id="location-selector">
+
+        <h1>
+            Select Location
+        </h1>
       <label htmlFor="country">Select Country:</label>
       <select
         id="country"
